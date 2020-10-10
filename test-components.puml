@@ -2,5 +2,6 @@
 
 DataAccess - [First Component]
 [First Component] ..> HTTP : use
+[Foo] - [Bar]
 
 @enduml
