@@ -9,4 +9,7 @@ the test repo
 
 [![GitHub issues by-label](https://img.shields.io/github/issues/badges/shields/good%20first%20issue)]
 
+
+[![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/badges/shields)
+
 ![test components](https://devapp.orbuml.com/app/uml/image/github/repos/claytantor%2Faorbtest-uml/contents/test-components.puml "These are some test components")
