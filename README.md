@@ -11,3 +11,5 @@ the test repo moo two
 
 
 [![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/badges/shields)
+
+![test components](https://devapp.orbuml.com/app/uml/image/github/repos/claytantor%2Faorbtest-uml/contents/test-components.puml "These are some test components")
