@@ -1,3 +1,4 @@
 @startuml 
 [foo]-[bar] 
+[zoo]-[mar]
 @enduml
