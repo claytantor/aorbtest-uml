@@ -4,13 +4,8 @@ the test repo moo two
 ![shield](https://img.shields.io/static/v1?link=https://dev.orbuml.com&link=https://dev.orbuml.com&label=foo&message=bar&color=brightgreen)
 
 ## Inline-style
-![alt text](https://devapp.orbuml.com/app/uml/image/claytantor%2Fflashlex-docs/6d39c7445a509a4b139e8d7e9b4f491fcb9c94c0?foo=509a4b139 "component diagram")
-
 ![shield](https://img.shields.io/static/v1?link=https://dev.orbuml.com&link=https://dev.orbuml.com&label=roo&message=zar&color=red)
-
-
 ![GitHub issues by-label](https://img.shields.io/github/issues/badges/shields/good%20first%20issue)
-
 
 [![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/badges/shields)
 
