@@ -1,4 +1,5 @@
 @startuml 
 [foo]-[bar] 
 [zoo]-[mar]
+[poo]-[car]
 @enduml
