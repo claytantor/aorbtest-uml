@@ -12,4 +12,4 @@ the test repo moo two
 
 [![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/badges/shields)
 
-![test components](https://devapp.orbuml.com/app/uml/image/github/repos/claytantor%2Faorbtest-uml/contents/test-components.puml?foo=28291812721712 "These are some test components")
+![test components](https://devapp.orbuml.com/app/uml/image/github/repos/claytantor%2Faorbtest-uml/contents/test-components.puml?foo=128291812721712 "These are some test components")
