@@ -14,4 +14,4 @@ the test repo moo two
 
 ![test components](https://devapp.orbuml.com/app/uml/image/github/repos/claytantor%2Faorbtest-uml/contents/test-components.puml?foo=128291812721712 "These are some test components")
 
-![test components](https://devapp.orbuml.com/app/uml/image/github/repos/claytantor%2Faorbtest-uml/contents/newfile.puml?sha=8c7a3e585d57e00dfd72c9a830bda755748da6f8 "These are some test components")
+![test components](https://devapp.orbuml.com/app/uml/image/github/repos/claytantor%2Faorbtest-uml/contents/newfile.puml?sha=5e326236f69377d76cdd220f1640eced8c170159 "These are some test components")
