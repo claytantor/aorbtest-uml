@@ -1,4 +1,5 @@
 @startuml 
-[faza] - [laza]
-[kaza] - [paza]
+[foo]-[bar] 
+[zoo]-[mar]
+[poo]-[car]
 @enduml
