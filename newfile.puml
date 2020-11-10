@@ -1,3 +1,4 @@
 @startuml 
 [faza] - [laza]
+[kaza] - [paza]
 @enduml
